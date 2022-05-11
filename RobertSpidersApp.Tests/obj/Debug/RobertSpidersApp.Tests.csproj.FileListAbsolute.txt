@@ -1,0 +1,16 @@
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\bin\Debug\nunit.engine.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\bin\Debug\RobertSpidersApp.Tests.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\bin\Debug\RobertSpidersApp.Tests.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\bin\Debug\nunit.framework.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\bin\Debug\nunit.framework.xml
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\obj\Debug\RobertSpidersApp.Tests.csprojAssemblyReference.cache
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\obj\Debug\RobertSpidersApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\obj\Debug\RobertSpidersApp.Tests.csproj.CopyComplete
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\obj\Debug\RobertSpidersApp.Tests.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\obj\Debug\RobertSpidersApp.Tests.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\bin\Debug\RobotSpidersApp.Services.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobertSpidersApp.Tests\bin\Debug\RobotSpidersApp.Services.pdb

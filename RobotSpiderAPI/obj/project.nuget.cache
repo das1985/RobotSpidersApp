@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "E01bUjJoSsLSQ9F3U1d4KzzfcqeH086/7v430ZUgTrh+176TNjjC6aGPPuZuiHR5m6bjEc6RZW4LddMbczLbRg==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio 2017\\Projects\\RobotSpidersApp\\RobotSpiderAPI\\RobotSpiderAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chagali\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\chagali\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\chagali\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\chagali\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\chagali\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\chagali\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
